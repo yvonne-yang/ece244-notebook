@@ -1,5 +1,5 @@
 # ECE244:Programming Fundamentals Notes
-Here you can find my notes for ECE244:Programming Funcdamentals, a course at University of Toronto Computer Engineering.
+Here you can find my notes for ECE244:Programming Fundamentals, a course at University of Toronto Computer Engineering.
 
 ## How to view
 **Under Construction**  
