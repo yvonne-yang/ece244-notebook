@@ -5,4 +5,7 @@ This page will be updated throughout the 2020 Fall semester.
 
 ## How to view
 **Under Construction**  
-Since I used Xeus Cling for a cpp kernel, I'm still figuring out how to share this notebook online.
+Since I used Jupyter Notebook with Xeus Cling for a cpp kernel, I'm still figuring out how to share this notebook online.
+A few thoughts:
+- Binder
+- Jovian
