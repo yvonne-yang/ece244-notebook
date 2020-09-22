@@ -4,7 +4,7 @@ Here you can find my notes for ECE244:Programming Fundamentals. ECE244 is a cour
 This page will be updated throughout the 2020 Fall semester.
 
 ## How to view
-**Under Construction**  
+**\*\*Under Construction\*\***  
 Since I used Jupyter Notebook with Xeus Cling for a cpp kernel, I'm still figuring out how to share this notebook online.
 A few thoughts:
 - Binder
