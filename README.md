@@ -1,5 +1,5 @@
 # ECE244: Programming Fundamentals Notes
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yvonne-yang/ece244-notebook-env/master?urlpath=git-pull?repo=https://github.com/yvonne-yang/ece244-notebook.git)]  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yvonne-yang/ece244-notebook-env/master?urlpath=git-pull?repo=https://github.com/yvonne-yang/ece244-notebook.git)  
 ---  
 
 Here you can find my notes for ECE244:Programming Fundamentals.  
