@@ -1,3 +1,2 @@
 # ignore checkpoints file
 .ipynb_checkpoints/*
-.vscode
