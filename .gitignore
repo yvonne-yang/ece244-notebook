@@ -1,2 +1,4 @@
+# vscode
+.vscode/**
 # ignore checkpoints file
 .ipynb_checkpoints/*
